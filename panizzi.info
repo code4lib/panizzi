@@ -1,0 +1,15 @@
+name = Panizzi
+description = Minimalist tabled theme with light colors.
+
+core = 7.x
+engine = phptemplate
+
+regions[help] = Help
+regions[highlighted] = Highlighted
+regions[content] = Content
+regions[sidebar_first] = Left sidebar
+regions[sidebar_second] = Right sidebar
+regions[footer] = Footer
+
+stylesheets[all][] = style.css
+stylesheets[all][] = common.css
