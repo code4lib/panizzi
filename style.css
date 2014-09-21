@@ -113,3 +113,17 @@ div.admin-panel h3 {
   padding: 5px 8px 5px;
   margin: 0;
 }
+
+/*
+ * 2015 conference page
+ */
+#node-531.node-teaser {
+    background-color: #FFF2D0;
+    margin-left: -20px;
+    margin-right: -20px;
+    padding-left: 20px;
+    padding-right 20px;
+    padding-top: 5px;
+    margin-top: 20px;
+    border-bottom: none;
+}
